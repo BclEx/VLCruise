@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7ED0867E-304C-4216-89F0-6DE2A6238EDD}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		VLCruise.lua = VLCruise.lua
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vlc", "vlc", "{08E97A9D-D8C4-4CE3-8653-4A3A3A2B4400}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\smorey\AppData\Roaming\vlc\lua\extensions\VLCruise.lua = ..\..\Users\smorey\AppData\Roaming\vlc\lua\extensions\VLCruise.lua
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

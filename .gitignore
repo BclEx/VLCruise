@@ -1,0 +1,9 @@
+# project
+*.orig
+
+# Windows
+*.suo
+*.sdf
+*.pdb
+*.user
+*.opensdf
